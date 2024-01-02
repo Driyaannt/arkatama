@@ -1,0 +1,59 @@
+.navbar {
+    background-color: #343a40;
+}
+
+.navbar-brand {
+    color: #1070c9 !important;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.navbar-nav .nav-link {
+    color: #123bb6 !important;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #123bb6 !important;
+}
+
+.person-image {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.person-image img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.rating {
+    margin-top: 10px;
+}
+
+.star {
+    color: #f39c12;
+    font-size: 20px;
+}
+
+h2.text-center.mb-4 {
+    color: #000000;
+}
+
+.card {
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+}
+
+.footer {
+    background-color: #23267B !important;
+    color: white;
+}
+
+.btn {
+    border-radius: 30px !important;
+}
